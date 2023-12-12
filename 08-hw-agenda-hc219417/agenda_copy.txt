@@ -1,0 +1,26 @@
+
+ Department meeting | 2021 |10 |29 |9:30 aM  |15 
+    Meeting with Bob | 2021 |10 |29 |8:30 aM  |15 
+ Meeting with Jim | 2021 |10 |29 |9:00 aM  |15 
+
+ Doctor's appointment | 2021 |10 |29 |10:30 aM  |15 
+ Meeting with Bob | 2021 |10 |29 |11:30 aM  |15 
+    Lunch meeting with dean | 2021 |10 |29 |11:45 aM  |15 
+ Lunch with the guys | 2021 |10 |29 |12:30 pM  |60 
+    Lunch with the guys | 2021 |10 |29 |12:30 pM  |60 
+         Lunch with the guys | 2021 |10 |29 |12:30 pM  |60 
+ Meeting With BOB | 2021 |10 |29 |1:30 pM  |15 
+
+ Chair meeting | 2021 |10 |29 |2:30 PM  |15 
+ Meeting WITH Bob | 2021 |10 |29 |3:30 pm  |20 
+         Fishing with Donald and Donald|2021|0|29|8:14AM| 115
+Fishing with Donald and Billy|  2021|10|29  | 2:45 PM|15
+Appointment with Donald|2021  |10|29|8:56PM |115
+Appointment with Fred|2021|10|29|8:30PM|50
+            
+
+
+Lunch|2021|10  | 29|10:58PM |115
+Fishing with Bob and Fred|2021 |10| 29| 2:45PM|10
+Skiing with Juedes|  2021|10  | 29|9:15 am|60 
+
